@@ -29,6 +29,7 @@ namespace Algorithm_Programs
             switch (Control)
             {
                 case 1:
+                    Permutation permutation = new Permutation();
                     break;
                 case 2:
                     break;
